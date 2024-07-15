@@ -4,7 +4,7 @@ Welcome to Lingo Scriptorium Smith, a C library project designed to make creatin
 # Table of Contents📽📜
 1. [Introduction](##🛬Introduction)
 2. [Features](##Features)
-3. [Installation](##Installation)
+3. [Installation](https://github.com/beyound3d/lingo-Scriptorium-Smith?tab=readme-ov-file#%EF%B8%8Finstallation)
 4. [Usage](##Usage)
     
 5. [Contributing](##Contributing)
