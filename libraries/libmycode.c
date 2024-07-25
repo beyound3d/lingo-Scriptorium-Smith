@@ -1,4 +1,4 @@
-# include "mycode.h"
+#include "mycode.h"
 #include <string.h>
 
 char*reverse(char *string){
