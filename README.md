@@ -2,10 +2,10 @@
 Welcome to Lingo Scriptorium Smith, a C library project designed to make creating and managing language processing tools simpler and more efficient. This library provides a collection of functions and utilities aimed at facilitating language-related programming tasks.
 
 # Table of Contents📽📜
-1. [Introduction](##Introduction)
+1. [Introduction](##🛬Introduction)
 2. [Features](##Features)
-3. [Installation](##Installation)
-4. [Usage](##Usage)
+3. [Installation](https://github.com/beyound3d/lingo-Scriptorium-Smith?tab=readme-ov-file#%EF%B8%8Finstallation)
+4. [Usage](https://github.com/beyound3d/lingo-Scriptorium-Smith?tab=readme-ov-file#usage)
     
 5. [Contributing](##Contributing)
 6. [License](##License)
