@@ -12,6 +12,8 @@ Welcome to Lingo Scriptorium Smith, a C library project designed to make creatin
    
 ## 🛬Introduction
 Lingo Scriptorium Smith is a comprehensive library for C developers who need robust tools for language processing. Whether you're working on a text analysis tool, a compiler, or any other language-related project, this library offers essential functionalities to streamline your development process.
+library hepls you to build function and enclosed in particular place
+mycode.h is a header file
 
 ## 👩🏻Features
 1. Text Tokenization: Efficiently split text into words, sentences, or other meaningful units.
