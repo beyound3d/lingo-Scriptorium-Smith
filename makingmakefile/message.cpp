@@ -3,5 +3,5 @@
 using namespace std;
 
 void message::printMessage(){
-    cout << "Makefile Example\n";
+    cout << "hello tanu kaushik you make makefile successfully\n";
 }

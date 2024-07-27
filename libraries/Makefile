@@ -1,7 +1,7 @@
 
 
 CC=clang
-CFLANGS=-Wall -g -v
+CFLANGS=-Wall -g
 
 all: librarytest
 

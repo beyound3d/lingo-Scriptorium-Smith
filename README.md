@@ -96,3 +96,23 @@ Lingo Scriptorium Smith is licensed under the MIT License. See the LICENSE file 
 
 Thank you for using Lingo Scriptorium Smith! If you have any questions or need further assistance, please feel free to open an issue on GitHub.
 
+## Additional
+**makefile command**- 
+1. `ls`
+2. `g++ main.cpp message.cpp` - to compile main.cpp and message.cpp
+3. `./a.out` - to see output
+4. `make` - running makefile 
+5. `make clean` - 
+6. `./output`- see output
+7. `touch main.cpp` - move to files
+
+**sharedfile command**
+Note: gcc(C) and g++(C++) is used for compliation
+1. `gcc -o main main.c` - not work show error
+2. `gcc -c -o main.o main.c`
+3. `nm main.o` - symbols work on
+4. `gcc -o libmy_math.so -fpic -shared my_math.c`
+5. `gcc -v -o main main.o -L C:\lss\sharedlibraries\my_math -lmy_math`- get detailed output to dignose issue, v stand for verbose
+
+
+
