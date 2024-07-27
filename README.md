@@ -109,10 +109,12 @@ Thank you for using Lingo Scriptorium Smith! If you have any questions or need f
 **sharedfile command**
 Note: gcc(C) and g++(C++) is used for compliation
 1. `gcc -o main main.c` - not work show error
-2. `gcc -c -o main.o main.c`
-3. `nm main.o` - symbols work on
+2. `gcc -c -o main.o main.c`- making main.o file from  main.c by compiling
+3. `nm main.o` - symbols work on names
 4. `gcc -o libmy_math.so -fpic -shared my_math.c`
-5. `gcc -v -o main main.o -L C:\lss\sharedlibraries\my_math -lmy_math`- get detailed output to dignose issue, v stand for verbose
+5. `mv libmy_math.so ../`- move file to back directory
+6. `gcc -v -o main main.o -L C:\lss\sharedlibraries\my_math -lmy_math`- get detailed output to dignose issue, v stand for verbose
+7. `gcc -o main main.c -L. -lmy_math`- to make executable file main from main.c my importing libmy_math.dll file
 
 
 
